@@ -1,0 +1,1 @@
+pyinstaller -w GUI_of_ToolKit.py -p button1.py -p button2.py -p button3.py --hidden-import button1 --hidden-import button2 --hidden-import button3
